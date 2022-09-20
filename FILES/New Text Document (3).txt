@@ -1,0 +1,9 @@
+strcpy(add[f].train_number,add[f+1].train_number);
+            strcpy(add[f].train_name,add[f+1].train_name);
+            strcpy(add[f].from,add[f+1].from);
+            strcpy(add[f].to,add[f+1].to);
+            strcpy(add[f].SL_seat,add[f+1].SL_seat);
+            strcpy(add[f].travel_time,add[f+1].travel_time);
+            strcpy(add[f].departure_time,add[f+1].departure_time);
+            strcpy(add[f].arrival_time,add[f+1].arrival_time);
+            strcpy(add[f].date,add[f+1].date);

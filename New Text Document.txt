@@ -1,0 +1,24 @@
+IF THEY ASK WHICH PART OF THE CODE YOU HAVE DONE JSUT SAY THIS 
+KRISHNA:
+void addtrain();
+void dlttrain();
+void cancelticket();
+void pnrstatus();
+void bookticket_write()
+void viewpassengers_read()
+void aread()
+void awrite()
+
+GOPI:
+void passenger();
+void admin();
+void viewpassenger();
+void foodcatering();
+void bookticket();
+
+MILAN:
+void Beverages();
+void Breakfast();
+void Meals();
+void AlaCarteItems();
+void foodbook();

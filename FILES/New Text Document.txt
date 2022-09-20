@@ -1,0 +1,9 @@
+number systems (binary and hex)
+binary data formats (unsigned, signed, floating point)
+boolean logic (logic gates)
+hardware (memory and cpu architecture)
+assembly for 8086 architecture and segmented memory model
+moving onto modern x86 and flat memory model
+operating systems (processes and threads, virtual memory, scheduler)
+C (higher level programming)
+algorithms and code architecture 
